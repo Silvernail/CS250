@@ -1,4 +1,4 @@
-void add()
+void add() //BEST SOFTWARE 
 {
   int 1,2;
   cout << "Enter two numbers to be added: " << endl;
