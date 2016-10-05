@@ -1,3 +1,5 @@
+//#MAKE C++ GREAT AGAIN
+
 void add() //BEST SOFTWARE 
 {
   int 1,2;
